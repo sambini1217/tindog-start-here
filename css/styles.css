@@ -2,6 +2,7 @@
     background-color: #ff4c68;
     color: #fff;
 
+
 }
 
 body {
@@ -66,11 +67,15 @@ h3 {
 .title-image {
     width: 60%;
     transform: rotate(25deg);
+    position: absolute;
 }
 
 /* Features Section */
 #features {
     padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
 }
 
 
