@@ -139,7 +139,7 @@ h3 {
     }
 
     .title-image {
-        transform: rotate(0deg);
+        transform: rotate(0);
         position: static;
     }
 }
